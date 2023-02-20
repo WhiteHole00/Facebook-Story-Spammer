@@ -9,3 +9,9 @@
 
 
 # 사진
+
+- ![F](https://user-images.githubusercontent.com/101702658/219998731-9401e781-bf2d-42bf-9d2f-b9fbd27c1815.png)
+- `도배 끝났을때` 
+
+- ![IMG_1344](https://user-images.githubusercontent.com/101702658/219998734-ff619ec6-d38a-44d7-ba98-6b5e53879c95.jpg)
+- 스토리 도배
